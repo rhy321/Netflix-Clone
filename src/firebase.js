@@ -8,12 +8,7 @@ import { toast } from "react-toastify";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAZtTHfpJ2QsDbqYTqxMSw-24il2e7sXaw",
-  authDomain: "netflix-clone-645ee.firebaseapp.com",
-  projectId: "netflix-clone-645ee",
-  storageBucket: "netflix-clone-645ee.firebasestorage.app",
-  messagingSenderId: "149070847408",
-  appId: "1:149070847408:web:95d124028078ec9f41ca75"
+
 };
 
 // Initialize Firebase
